@@ -1,19 +1,19 @@
 # ꡙꡤꡐꡜ
 
-#### ꡵ꡪ
+| Predmet |   ✍🏻   |
+| ------- | --- |
+| ANG     | -   |
+| FIZ     | -   |
+| ITA     | -   |
+| MAT     | 🌶   |
+| OMT     | -   |
+| PRO     | -   |
+| RSA     | -   |
+| SLO     | 👱🏻  |
+| UIKS    | 🎅🏻  |
+| VOS     | -   |
 
-|      Pe       |         Pr          |
-| ------------- | ------------------- |
-| -             | Angleščina          |
-| -             | Fizika              |
-| -             | Italijanščina (lol) |
-| PatrickKvrgic | Matematika          |
-| -             | OMT                 |
-| -             | Programiranje       |
-| -             | RSA                 |
-| x             | Slovenščina         |
-| elieven       | UIKS                |
-| -             | VOS                 |
+<br>
 
 #### future ref
 
