@@ -15,7 +15,7 @@ V dokument pišeš normalen tekst in pol pred vrstico ali okoli besede / besed d
 | normalno       | `normalno`       |
 | **odebeljeno** | `**odebeljeno**` |
 | __odebeljeno__ | `__odebeljeno__` |
-| _ležeče_       | `_ležeče_`       |
+| *ležeče*       | `*ležeče*`       |
 | _ležeče_       | `_ležeče_`       |
 | ~~prečrtano~~  | `~~prečrtano~~`  |
 
