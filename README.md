@@ -1,5 +1,7 @@
 # ꡙꡤꡐꡜ
 
+Kako pisat .md dokumente je zaenkrat razloženo v [tutorial.md](#). Najpomembnejše vrjetno je kako delat/pisat enačbe/račune.
+
 | Predmet |   ✍🏻   |
 | :------- | :---: |
 | ANG     | -   |
