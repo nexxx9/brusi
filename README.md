@@ -10,7 +10,7 @@ Kako pisat .md dokumente je zaenkrat razloženo v [tutorial.md](tutorial.md). Na
 | MAT     | 🌶   |
 | OMT     | -   |
 | PRO     | 👓   |
-| RSA     | -   |
+| RSA     | 🌌   |
 | SLO     | 👱🏻  |
 | UIKS    | 🎅🏻  |
 | VOS     | -   |
