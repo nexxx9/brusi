@@ -7,7 +7,7 @@
 | ITA     | -   |
 | MAT     | 🌶   |
 | OMT     | -   |
-| PRO     | -   |
+| PRO     | 👓   |
 | RSA     | -   |
 | SLO     | 👱🏻  |
 | UIKS    | 🎅🏻  |
