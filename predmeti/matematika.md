@@ -13,7 +13,8 @@ Trenutno je postopek zajeban kr še ni pravi support za normalne markdown račun
 - Napiši formulo v [LaTeX][latex-syntax-wiki] sintaksi v [ta generator.][latex-to-svg] Če rabiš grške črke jih [imaš tu.][greek-latex]
 - Na [gist.githubu][gist-gh] naredi nov __hidden gist__
   - Napišeš v _filename including extension_ npr. `vaja1racun1del1.svg`
-  - V tavelik kvadrat prilepiš __svg source code__ kopirano iz generatorja
+  - SVG kodo kopirano iz generatorja minimiziraš v [SVG minifierju][minifysvg]
+  - V tavelik kvadrat prilepiš __svg source code__ kopirano iz minifierja
   - Klikneš __create secret gist__
 - Kopiraš link na katerega te je vrglo ko si kliknu na __create secret gist__
 - Prilepiš ta link v [rawgit.com][rawgit]
@@ -40,6 +41,7 @@ in `\frac{a}{sin\alpha} = \frac{b}{sin\beta} = \frac{c}{sin\gamma} = 2R` v:
 [greek-latex]: http://web.ift.uib.no/Teori/KURS/WRK/TeX/sym1.html
 [rawgit]: https://rawgit.com/
 [gist-gh]: https://gist.github.com/
+[minifysvg]: https://www.svgminify.com/
 
 [demo-enacba-1]: https://cdn.rawgit.com/elieven/50028fbc243f18d41eef4e8292aaa457/raw/c96f6caede3fa946d34546622010067486f94722/demo-enacba-1.svg
 [demo-enacba-2]: https://cdn.rawgit.com/elieven/17368b8043be600b52155010fc96d3a8/raw/1d998f6efcafcf5093543caa65bf567a38efbce5/demo-enacba-2.svg
