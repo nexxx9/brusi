@@ -35,7 +35,7 @@ in `\frac{a}{sin\alpha} = \frac{b}{sin\beta} = \frac{c}{sin\gamma} = 2R` v:
 
 # Matematika
 
-[latex-syntax-wiki]: https://en.wikibooks.org/wiki/LaTeX/Mathematics#Brackets,_braces_and_delimiters
+[latex-syntax-wiki]: https://en.wikibooks.org/wiki/LaTeX/Mathematics#Brackets
 [latex-to-svg]: https://viereck.ch/latex-to-svg/
 [greek-latex]: http://web.ift.uib.no/Teori/KURS/WRK/TeX/sym1.html
 [rawgit]: https://rawgit.com/
