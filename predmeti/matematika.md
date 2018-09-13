@@ -12,7 +12,7 @@ Trenutno je postopek zajeban kr še ni pravi support za normalne markdown račun
 
 - Napiši formulo v [LaTeX][latex-syntax-wiki] sintaksi v [ta generator.][latex-to-svg] Če rabiš grške črke jih [imaš tu.][greek-latex]
 - Na [gist.githubu][gist-gh] naredi nov __hidden gist__
-  - Napišeš v _filename including extension_ npr. vaja1racun1del1.svg
+  - Napišeš v _filename including extension_ npr. `vaja1racun1del1.svg`
   - V tavelik kvadrat prilepiš __svg source code__ kopirano iz generatorja
   - Klikneš __create secret gist__
 - Kopiraš link na katerega te je vrglo ko si kliknu na __create secret gist__
