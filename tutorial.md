@@ -51,7 +51,7 @@ Poguglaj markdown tables.
 
 ## Enačbe in podobno
 
-Matematične formule se piše v [LaTeX syntaksi][latex-syntax-wiki].  Uporabi se [generator][latex-to-svg] ki ti iz formule nardi svg sliko in pol jo daš v md dokument. Sliko uploadaš na [imgbb][img-upload-dest].
+Matematične formule se piše v [LaTeX syntaksi][latex-syntax-wiki].  Uporabi se [generator][latex-to-svg] ki ti iz formule nardi svg sliko in pol jo daš v md dokument.
 
 <br>
 
