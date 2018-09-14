@@ -22,3 +22,4 @@ Kako pisat .md dokumente je zaenkrat razloženo v [tutorial.md](tutorial.md). Na
 - [algebra,js](http://algebra.js.org/)
 - [paper.js](http://paperjs.org/)
 - [kaTex](https://katex.org/)
+- [Code badges](https://shields.io/#/)
