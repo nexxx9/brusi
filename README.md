@@ -8,12 +8,12 @@ Kako pisat .md dokumente je zaenkrat razloženo v [tutorial.md](tutorial.md). Na
 | FIZ     | -   |
 | ITA     | -   |
 | MAT     | 🌶   |
-| OMT     | -   |
+| OMT     | 🌶   |
 | PRO     | 👓   |
 | RSA     | 🌌   |
 | SLO     | 👱🏻  |
 | UIKS    | 🎅🏻  |
-| VOS     | -   |
+| VOS     | 🚴🏼‍♂️   |
 
 <br>
 
