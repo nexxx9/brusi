@@ -13,7 +13,7 @@ Kako pisat .md dokumente je zaenkrat razloženo v [tutorial.md](tutorial.md). Na
 | RSA     | 🌌   |
 | SLO     | 👱🏻  |
 | UIKS    | 🎅🏻  |
-| VOS     | 🚴🏼‍♂️   |
+| VOS     | 🚴   |
 
 <br>
 
