@@ -2,24 +2,11 @@
 
 Kako pisat .md dokumente je zaenkrat razloženo v [tutorial.md](tutorial.md). Najpomembnejše vrjetno je kako delat/pisat enačbe/račune.
 
-| Predmet |   ✍🏻   |
-| :------- | :---: |
-| ANG     | -   |
-| FIZ     | -   |
-| ITA     | -   |
-| MAT     | 🌶   |
-| OMT     | 🌶   |
-| PRO     | 👓   |
-| RSA     | 🌌   |
-| SLO     | 👱🏻  |
-| UIKS    | 🎅🏻  |
-| VOS     | 🚴   |
-
 <br>
 
 | Predmet | VOS | UIKS | SLO | RSA | PRO | OMT | MAT | FIZ | ITA, ANG |
 | :-------: | :---: | :----: | :---: | :---: | :---: | :---: | :---: | :---: | :--------: |
-| ✍ <br>    | 🚴 <br> | 🎅🏻 <br> | 👱🏻 <br> | 🌌 <br> | 👓 <br> | 🌶 <br> | 🌶 <br> | -  <br> | -     <br>   |
+| ✍ <br>   | 🚴 | 🎅🏻 | 👱🏻 | 🌌  | 👓  | 🌶  | 🌶  | -   | -     |
 
 
 <br>
