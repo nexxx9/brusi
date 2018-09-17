@@ -19,7 +19,7 @@ Kako pisat .md dokumente je zaenkrat razloženo v [tutorial.md](tutorial.md). Na
 
 | Predmet | VOS | UIKS | SLO | RSA | PRO | OMT | MAT | FIZ | ITA, ANG |
 | :-------: | :---: | :----: | :---: | :---: | :---: | :---: | :---: | :---: | :--------: |
-| ✍     | 🚴  | 🎅🏻  | 👱🏻  | 🌌  | 👓 | 🌶  | 🌶  | -   | -        |
+| ✍ <br>    | 🚴 <br> | 🎅🏻 <br> | 👱🏻 <br> | 🌌 <br> | 👓 <br> | 🌶 <br> | 🌶 <br> | -  <br> | -     <br>   |
 
 
 <br>
