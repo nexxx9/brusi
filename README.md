@@ -45,7 +45,7 @@ Kako pisat .md dokumente je zaenkrat razloženo v [tutorial.md](tutorial.md). Na
 |   /   |             /             |   /   |   /   |   /   |   /   |   /   |
 |   /   |             /             |   /   |   /   |   /   |   /   |   /   |
 |   /   |             /             |   /   |   /   |   /   |   /   |   /   |
-|   /   | **20** <br> [SLO DB][slo] |   /   |   /   |   /   |   /   |   /   |
+|   /   | **20** <br> [SLO DB][slo] |   **21** <br> [UIKS kratek test][uiks]   |   /   |   /   |   /   |   /   |
 |   /   |  **27** <br> [PRO][pro]   |   /   |   /   |   /   |   /   |   /   |
 |   /   |             /             |   /   |   /   |   /   |   /   |   /   |
 
@@ -58,7 +58,7 @@ Kako pisat .md dokumente je zaenkrat razloženo v [tutorial.md](tutorial.md). Na
 |           /            |   /   |           /            |           /            |           /           |   /   |   /   |
 |           /            |   /   | **5** <br> [UMN][umn]  |           /            | **7** <br> [ANG][ang] |   /   |   /   |
 | **10** <br> [MAT][mat] |   /   | **12** <br> [SLO][slo] | **13** <br> [ITA][ita] |           /           |   /   |   /   |
-|           /            |   /   |           /            |           /            |           /           |   /   |   /   |
+|           /            |   **18** <br> [UIKS kratek test][uiks]   |           **19** <br> [UIKS VELIK test][uiks]            |           /            |           /           |   /   |   /   |
 |           /            |   /   |           /            |           /            |           /           |   /   |   /   |
 |           /            |   /   |           /            |           /            |           /           |   /   |   /   |
 
@@ -77,6 +77,7 @@ Kako pisat .md dokumente je zaenkrat razloženo v [tutorial.md](tutorial.md). Na
 
 
 [uikst4l]: http://solamona.com/s/sts-kp/rac/4l/uikst.html
+[uiks]: http://solamona.com/s/sts-kp/rac/5l/uiks.html
 [mat]: http://solamona.com/s/sts-kp/rac/5l/matematika.html
 [ang]: http://solamona.com/s/sts-kp/rac/5l/anglescina.html
 [fiz]: http://solamona.com/s/sts-kp/rac/5l/fizika.html
