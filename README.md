@@ -2,7 +2,7 @@
 
 Kako pisat .md dokumente je zaenkrat razloženo v [tutorial.md](tutorial.md). Najpomembnejše vrjetno je kako delat/pisat enačbe/račune.
 
-KOMOT JE PISAT KODO V [TEMU ONLINE EDITORJU](https://stackedit.io/app#) in pol jo samo kopiraš in pastaš not u file kle in nardiš pull request. 
+KOMOT JE PISAT KODO V [TEMU ONLINE EDITORJU](https://stackedit.io/app#) in pol jo samo kopiraš in pastaš not u file kle in nardiš pull request. S tem da uni diagrami ne delajo na githubu in niti na našem serverju zaenkrat, math na gh ne na našem pa večinoma ja.
 
 <br>
 
