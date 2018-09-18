@@ -32,7 +32,7 @@ Kako pisat .md dokumente je zaenkrat razloženo v [tutorial.md](tutorial.md). Na
 |   /   |   /   |           /            |           /            |           /            |   /   |   /   |
 |   /   |   /   |           /            |           /            |           /            |   /   |   /   |
 |   /   |   /   |           /            | **17** <br> [MAT][mat] |           /            |   /   |   /   |
-|   /   |   /   | **23** <br> [ANG][ang] |           **24** <br> [UIKS kratek test][uiks]            | **18** <br> [UIKS kratek test][uiks] |   /   |   /   |
+|   /   |   /   | **23** <br> [ANG][ang] |           **24** <br> [UIKS kratek test][uiks]  |    /  |   /   |
 |   /   |   /   |           /            |           /            |           /            |   /   |   /   |
 |   /   |   /   |           /            |           /            |           /            |   /   |   /   |
 
