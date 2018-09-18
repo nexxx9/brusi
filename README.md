@@ -2,6 +2,8 @@
 
 Kako pisat .md dokumente je zaenkrat razloženo v [tutorial.md](tutorial.md). Najpomembnejše vrjetno je kako delat/pisat enačbe/račune.
 
+KOMOT JE PISAT KODO V [TEMU ONLINE EDITORJU](https://stackedit.io/app#) in pol jo samo kopiraš in pastaš not u file kle in nardiš pull request. 
+
 <br>
 
 | Predmet |  VOS  | UIKS  |  SLO  |  RSA  |  PRO  |  OMT  |  MAT  |  FIZ  | ITA, ANG |
